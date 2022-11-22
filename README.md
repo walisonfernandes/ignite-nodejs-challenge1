@@ -2,7 +2,8 @@
 
 <p align="center">
 Primeira atividade realizada na jornada Ignite, promovida pela Rocketseat.
-
+</p>
+<p align="center">
 A linguagem de programação em estudo nesta jornada é o Node.js.
 </p>
 
@@ -15,8 +16,6 @@ A linguagem de programação em estudo nesta jornada é o Node.js.
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
-<br>
 
 ## 🚀 Tecnologias
 
